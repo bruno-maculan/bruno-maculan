@@ -18,5 +18,4 @@ Um estudante apaixonado por tecnologia e programação, em busca de oportunidade
 
 ### Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mu/mp/302/#tl/priority/%5Esmartlabel_personal)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-maculan-840096131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
